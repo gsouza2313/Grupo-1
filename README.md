@@ -1,0 +1,1 @@
+"Era uma vez uma calopsita chamada Chico"
