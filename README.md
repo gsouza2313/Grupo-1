@@ -1,1 +1,2 @@
-"Era uma vez uma calopsita chamada Chico"
+"Era uma vez uma calopsita chamada Chico. Chico era uma calopsita muito peculiar em alguns aspectos. Suas plumas eram da cor do sol e seu bico era afiado como uma navalha, demonstrando imponência.
+No entanto, paradoxalmente, Chico era Palmeirense."
