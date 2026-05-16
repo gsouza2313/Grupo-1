@@ -1,1 +1,1 @@
-"Era uma vez uma calopsita chamada Chico".
+"Era uma vez uma calopsita chamada Chico"
