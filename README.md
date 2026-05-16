@@ -1,2 +1,1 @@
-"Era uma vez uma calopsita chamada Chico"
 "Era uma vez uma calopsita chamada Chico. Diferente dos outros pássaros, Chico tinha um talento muito peculiar: ele adorava assobiar toda vez que alguém começava a digitar no teclado. Com suas penas amarelas sempre arrepiadas, ele não era apenas um animal de estimação, mas o verdadeiro gerente da casa, sempre pronto para inspecionar o trabalho na tela e roubar a tampa de alguma caneta distraída quando ninguém estava olhando."
